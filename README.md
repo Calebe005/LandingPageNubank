@@ -9,7 +9,7 @@ Hoje fiz o planejamento da Leanding Page, escolhi a Nubank por ser uma empresa a
     · Programas/Sites ultilizados: <br/>
        - Figma -> https://www.figma.com
 
-## Dia 2 - 20-02-2022 - 03:56 AM
+## Dia 2 - 20-02-2022 
 
 <img width="200px" src="assets/images/htmlLandingPageNubank.png">
 Fiz a codificação HTML da Landing Page Nubank, retirei algumas imagens do própio site oficial da Nubank para poupar tempo com a procura e tratamento de imagens além de trazer mais a "cara" da empresa já que foram imagens selecionadas e tratadas por eles.<br/>
