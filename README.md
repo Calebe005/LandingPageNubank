@@ -3,7 +3,7 @@ Ideia de Landing page para o Nubank
 
 ## Dia 1 - 19-02-2022
 
-<img width="200px" src="assets/images/LogoNubankBranca.svg">
+<img width="200px" src="/assets/images/logoNubankBranca.svg">
 
 Hoje fiz o planejamento da Leanding Page, escolhi a Nubank por ser uma empresa a qual tenho me tornado cliente recentemente, além de gostar muito do tom roxo que a empresa ultiliza.<br/>
     · Programas/Sites ultilizados: <br/>
@@ -16,3 +16,8 @@ Fiz a codificação HTML da Landing Page Nubank, retirei algumas imagens do pró
     · Programas/Sites ultilizados:<br/>
         - VsCODE<br/>
         - Nubank -> https://nubank.com.br
+
+## Dia 3 - 22-02-2022
+
+<img width="200px" src="assets/images/cssAplicado.png">
+Foi feito a implementação das CSS com abertura para melhorias posteriormente.
